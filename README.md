@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in web design, data alaysis, and graphing with D3.JS!
 - 🌱 I’m currently learning JavaScript, React.Js, D3.js, and Node.JS
-- 💞️ I’m looking to collaborate on open source projects or any financial analysis projects with code
+- 💞️ I’m looking to collaborate on open source projects or any financial analysis or business analysis projects with code
 - 📫 How to reach me [Twitter](https://www.twitter.com/bradfresco/)
 
 <br />
