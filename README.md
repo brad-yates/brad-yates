@@ -1,5 +1,5 @@
 👋 Hi, I’m @brad-yates
-### I'm a self-taught coder and creator. I enjoy exploring the world of coding and sharing it with others.
+### I'm a self-taught coder, designer, and creator. I enjoy exploring the world of coding and sharing it with others.
 
 - 👀 I’m interested in web design, data alaysis, and graphing with D3.JS!
 - 🌱 I’m currently learning JavaScript, React.Js, D3.js, and Node.JS
