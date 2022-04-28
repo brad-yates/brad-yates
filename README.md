@@ -2,7 +2,7 @@
 ### I'm a self-taught coder, designer, and creator. I enjoy exploring the world of coding and sharing it with others.
 
 - 👀 I’m interested in web design, data alaysis, and graphing with D3.js!
-- 🌱 I’m currently learning JavaScript, React.Js, D3.js, and Node.JS
+- 🌱 I’m currently learning JavaScript, React.Js, D3.js, Three.js, and Node.JS
 - 💞️ I’m always looking to collaborate on open source projects or any financial analysis or business analysis projects with code
 - 📫 The easiest way to reach me is on [Twitter](https://www.twitter.com/bradfresco/)
 
