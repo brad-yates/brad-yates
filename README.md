@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning JavaScript, React.js, D3.js, Three.js, and Node.js
 - 💞️ I’m always looking to collaborate on open source projects or any financial or business analysis projects
 - ♣️ I'm a big fan of all strategy games and really enjoy the process of incrementally improving.
-- 📫 The easiest way to reach me is on [Twitter](https://www.twitter.com/bradfresco/)
+- 📫 The best way to reach me is on [Twitter](https://www.twitter.com/bradfresco/)
 
 <br />
 
