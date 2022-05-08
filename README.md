@@ -1,7 +1,7 @@
 👋 Hi, I’m @brad-yates
 ### I'm a self-taught coder, designer, and creator. I enjoy exploring the world of coding and sharing it with others.
 
-- 👀 I’m interested in web design, data analysis, and graphing with D3.js!
+- 👀 I’m interested in web design, backend development, data analysis, and graphing with D3.js!
 - 🌱 I’m currently learning JavaScript, React.js, D3.js, Three.js, and Node.js
 - 💞️ I’m always looking to collaborate on open-source projects or any financial, economic, or business analysis projects.
 - ♣️ I'm a big fan of strategy games and thoroughly enjoy the process of incrementally improving.
