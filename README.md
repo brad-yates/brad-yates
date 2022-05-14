@@ -13,7 +13,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Bradley&nbsp;Yates-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bradley-yates-a5090715a/)](https://www.linkedin.com/in/bradley-yates-a5090715a/)
 
-
 [![Proton Badge](https://img.shields.io/badge/-bradyates.dev@pm.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:bradyates.dev@pm.me)](mailto:bradyates.dev@pm.me)
 <br />
 
@@ -28,12 +27,11 @@
 
 <br />
 
-<details>
 
-<img align="left" alt="Brad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=brad-yates&show_icons=true&theme=radical)/>
 
-                         
-</details>
+<img align="left" alt="Brad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=brad-yates&show_icons=true&theme=radical" />
+
+<img align="left" alt="Brad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=brad-yates&show_icons=true&hide_border=true&theme=tokyonight" />                         
                                                  
 
 
