@@ -8,9 +8,9 @@
 - 📫 The best way to reach me is on [Twitter](https://www.twitter.com/bradfresco/)
 
 ### How To Reach Me
-[![Twitter Badge](https://img.shields.io/badge/-@bradfresco-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://www.twitter.com/bradfresco/)](https://www.twitter.com/bradfresco/) 
+[![Twitter Badge](https://img.shields.io/badge/-@Bradfresco-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://www.twitter.com/bradfresco/)](https://www.twitter.com/bradfresco/) 
 
-[![Linkedin Badge](https://img.shields.io/badge/-bradley&nbsp;yates-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bradley-yates-a5090715a/)](https://www.linkedin.com/in/bradley-yates-a5090715a/)
+[![Linkedin Badge](https://img.shields.io/badge/-Bradley&nbsp;Yates-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bradley-yates-a5090715a/)](https://www.linkedin.com/in/bradley-yates-a5090715a/)
 
 
 [!Proton Badge](https://img.shields.io/badge/-Bradyates.dev@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link:bradyates.dev@pm.me)](mailto:bradyates.dev@pm.me)
