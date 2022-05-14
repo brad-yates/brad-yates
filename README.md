@@ -14,7 +14,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Bradley&nbsp;Yates-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bradley-yates-a5090715a/)](https://www.linkedin.com/in/bradley-yates-a5090715a/)
 
 
-[![Proton Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=whitelink=mailto:bradyates.dev@pm.me)](mailto:bradyates.dev@pm.me)
+[![Proton Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:bradyates.dev@pm.me)](mailto:bradyates.dev@pm.me)
 
 
 <br />
