@@ -30,6 +30,9 @@
 
 <br />
 
+![Brad's GitHub stats](https://github-readme-stats.vercel.app/api?username=brad-yates&show_icons=true&theme=radical)
+
+<!---
 ---
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -39,11 +42,12 @@
 </details>
 
 <details>
+ 
   <summary>:zap: Most Used Languages</summary>
 
 <img align="left" alt="Brad's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brad-yates&layout=compact&theme=tokyonight" />
 
-</details>
+</details> --->
 
 <!---
 brad-yates/brad-yates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
