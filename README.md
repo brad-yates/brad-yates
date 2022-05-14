@@ -15,8 +15,6 @@
 
 
 [![Proton Badge](https://img.shields.io/badge/-bradyates.dev@pm.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:bradyates.dev@pm.me)](mailto:bradyates.dev@pm.me)
-
-
 <br />
 
 ### Languages and Tools:
@@ -32,7 +30,7 @@
 
 
 
-![Brad's GitHub stats](https://github-readme-stats.vercel.app/api?username=brad-yates&show_icons=true&theme=radical)
+!<img align="left" alt="Brad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=brad-yates&show_icons=true&theme=radical)/>
 
 <br />
 
