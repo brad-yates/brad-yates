@@ -7,7 +7,7 @@
 - ♣️ I'm a big fan of music, strategy games, and thoroughly enjoy the process of incremental improvement.
 <!--- - 📫 The best way to reach me is on [Twitter](https://www.twitter.com/bradfresco/) --->
 
-### Best ways to reach me
+### Best ways to reach me:
 
 [![Twitter Badge](https://img.shields.io/badge/-@Bradfresco-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://www.twitter.com/bradfresco/)](https://www.twitter.com/bradfresco/) 
 
