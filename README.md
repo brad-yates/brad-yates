@@ -32,12 +32,6 @@
 
 <img align="left" alt="Brad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=brad-yates&show_icons=true&hide_border=true&theme=tokyonight" />                         
 
-<br />
-     
- 
-<img align="left" alt="Brad's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brad-yates&layout=compact&theme=tokyonight" />
-
-<br />
      
 <!---
 ---
