@@ -31,7 +31,7 @@
 <br />
 
 <img align="left" alt="Brad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=brad-yates&show_icons=true&hide_border=true&theme=tokyonight" />                         
-
+[![Brad's GitHub stats](https://github-readme-stats.vercel.app/api?username=brad-yates)](https://github.com/brad-yates/github-readme-stats)
      
 <!---
 ---
