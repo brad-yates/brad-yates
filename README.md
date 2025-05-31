@@ -9,7 +9,7 @@
 
 ### Best ways to reach me:
 
-[![Twitter Badge](https://img.shields.io/badge/-@Bradfresco-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://www.twitter.com/bradfresco/)](https://www.twitter.com/bradfresco/) 
+[![Twitter Badge](https://img.shields.io/badge/-@Bradfresco-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://www.twitter.com/bradleybrix/)](https://www.twitter.com/bradleybrix/) 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Bradley&nbsp;Yates-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bradley-yates-a5090715a/)](https://www.linkedin.com/in/bradley-yates-a5090715a/)
 
